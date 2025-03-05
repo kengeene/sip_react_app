@@ -7,7 +7,7 @@ import { SipProvider } from "react-sip";
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     {/* <SipProvider
-      host="41.139.203.87"
+      host="app.sokomoto.co.ke"
       port={5060}     // SIP port matching Zoiper
       wsPort={8089}   // WebSocket port for signaling
       pathname="/ws"
