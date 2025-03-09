@@ -51,3 +51,14 @@
 .container > div {
   line-height: 50px;
 }
+
+.credentials-form{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  line-height: 40px;
+}
+
+.credentials-form__button{
+  margin: 20px 0;
+}
